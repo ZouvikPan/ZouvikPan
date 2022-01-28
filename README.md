@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Souvik Pan 👦</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souvik Pan 👦</h1>
 <h3 align="center">I love to play, experiment and work with data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouvikpan&label=Profile%20views&color=0e75b6&style=flat" alt="zouvikpan" /> </p>
