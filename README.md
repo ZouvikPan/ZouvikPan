@@ -2,6 +2,7 @@
 <h3 align="center">I love to play, experiment and work with data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouvikpan&label=Profile%20views&color=0e75b6&style=flat" alt="zouvikpan" /> </p>
+<p align="right"> <img src="https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47auxwb2l08mr4psrdz4ehenr0rb2cj1nba6u0f8xd&rid=giphy.gif&ct=g" height="200" width="auto" alt="Data doesn't lie"/></p>
 
 - 🌱 I’m currently learning **Big Data Technologies**
 - 🔭 I’m currently working on [**Data-Engineering-Work-Zoomcamp**](https://github.com/ZouvikPan/data-engineering-work-zoomcamp)
