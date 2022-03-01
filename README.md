@@ -8,9 +8,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouvikpan&label=Profile%20views&color=0e75b6&style=flat" alt="zouvikpan" /> </p>
 
-- 👯 I love to work, experiment and play with data.
-- 🌱 I’m currently learning **Big Data Technologies**
-- 🔭 I’m currently working on [**Data-Engineering-Work-Zoomcamp**](https://github.com/ZouvikPan/data-engineering-work-zoomcamp)
+- 👯 I love to work and experiment with data and solve problems using technology. I have a keen interest in Machine Learning, Finance, High-Frequency Trading, Mathematics, and Computer Science.
+- 🌱 I’m currently learning and exploring about **Option Volatility and Option Pricing Models** 
+- 🔭 I’m currently working on [**Option_Pricing_Models**](https://github.com/ZouvikPan/Option_Pricing_Models)
 - 📫 Reach me at **souvik.pan2001@gmail.com**
 
 - 📄 Link to my [resume](https://drive.google.com/file/d/1W8BB5uykjYIgtjnxHexoMQDwGIIl7xZd/view?usp=sharing)
