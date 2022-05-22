@@ -3,14 +3,13 @@
 <h3 align="center">I love to play, experiment and work with data.</h3>
 -->
 <p align="left"> 
-  <img src="https://github.com/ZouvikPan/ZouvikPan/blob/main/GitHub_Intro.gif" alt="Introduction" width="540" height="150"/>
-  <img src="https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47auxwb2l08mr4psrdz4ehenr0rb2cj1nba6u0f8xd&rid=giphy.gif&ct=g" height="150" width="auto" alt="Data doesn't lie"/>
+  <img src="https://github.com/ZouvikPan/ZouvikPan/blob/main/GitHub_Intro.gif" alt="Introduction" height="150"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouvikpan&label=Profile%20views&color=0e75b6&style=flat" alt="zouvikpan" /> </p>
 
-- 👯 I love to work and experiment with data and solve problems using technology. I have a keen interest in Machine Learning, Finance, High-Frequency Trading, Mathematics, and Computer Science.
-- 🌱 I’m currently learning and exploring about **Option Volatility and Option Pricing Models** 
-- 🔭 I’m currently working on [**Option_Pricing_Models**](https://github.com/ZouvikPan/Option_Pricing_Models)
+- 👯 I love to work and experiment with data and solve problems using technology. I have a keen interest in Computer Science, DevOps, Machine Learning, Finance and Mathematics.
+- 🌱 I’m currently learning and exploring about **Kubernetes** 
+- 💬 Ask me about **DevOps & Karate** related stuff.
 - 📫 Reach me at **souvik.pan2001@gmail.com**
 
 - 📄 Link to my [resume](https://drive.google.com/file/d/1W8BB5uykjYIgtjnxHexoMQDwGIIl7xZd/view?usp=sharing)
@@ -33,6 +32,13 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zouvikpan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="zouvikpan" /></p>
+
+<details>
+ <summary>😂 <strong>Random joke that'll make you laugh!!</strong> </summary>
+   <br>
+ 
+   ![Jokes Card](https://readme-jokes.vercel.app/api)
+</details>
 
 <!--
 **ZouvikPan/ZouvikPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
