@@ -7,12 +7,11 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouvikpan&label=Profile%20views&color=0e75b6&style=flat" alt="zouvikpan" /> </p>
 
-- 👯 I love to work and experiment with data and solve problems using technology. I have a keen interest in Computer Science, DevOps, Machine Learning, Finance and Mathematics.
-- 🌱 I’m currently learning and exploring about **Kubernetes** 
-- 💬 Ask me about **DevOps & Karate** related stuff.
-- 📫 Reach me at **souvik.pan2001@gmail.com**
+- I am a developer from 🇮🇳 who loves to work and experiment with data and solve problems using technology. I have a keen interest in Web Development, Machine Learning, Finance, Low Latency Softwares and Mathematics. 
+- Ask me about **C++, WebDev & Karate** related stuff.
+- Reach me at **souvik.pan2001@gmail.com**
 
-- 📄 Link to my [resume](https://drive.google.com/file/d/1W8BB5uykjYIgtjnxHexoMQDwGIIl7xZd/view?usp=sharing)
+- Link to my [resume](https://drive.google.com/file/d/1W8BB5uykjYIgtjnxHexoMQDwGIIl7xZd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
