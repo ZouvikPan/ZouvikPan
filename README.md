@@ -7,7 +7,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouvikpan&label=Profile%20views&color=0e75b6&style=flat" alt="zouvikpan" /> </p>
 
-- I am a developer from 🇮🇳 who loves to work and experiment with data and solve problems using technology. I have a keen interest in Web Development, Machine Learning, Finance, Low Latency Softwares and Mathematics. 
+- I am a developer from 🇮🇳 who loves to work and experiment with data and solve problems using technology. I have a keen interest in C++, Python, Machine Learning, Finance, Low Latency Softwares and Mathematics. 
 - Ask me about **C++, WebDev & Karate** related stuff.
 - Reach me at **souvik.pan2001@gmail.com**
 
