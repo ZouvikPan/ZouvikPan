@@ -9,20 +9,22 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zouvikpan&label=Profile%20views&color=0e75b6&style=flat" alt="zouvikpan" /> </p>
 
-- I am a Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇮🇳 who has a passion to succeed and loves solving problems using technology. I am keenly interested in Backend Development, System Design, Finance, Low-Level Design, and Computer Networks.
-- Ask me about **C++, Web Development & High/Low Level Design** related stuff.
+- I am a Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇮🇳 who loves solving problems using technology. I am keenly interested in Backend Development, System Design, Finance, Low-Level Design, and Computer Networks.
+- Ask me about **Web Development, C++ & High/Low Level Design** related stuff.
 - Reach me at **souvik.pan2001@gmail.com**
 
 - Link to my [resume](https://drive.google.com/file/d/1W8BB5uykjYIgtjnxHexoMQDwGIIl7xZd/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+### :woman_technologist: &nbsp;Connect with me :
 <p align="left">
 <a href="https://twitter.com/souvikpan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souvikpan12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souvik-pan-89a49516b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-pan-89a49516b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zouvik_pan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zouvik_pan" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/zouvik_pan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zouvik_pan" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+### 🛠 &nbsp;Languages and Tools :
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -49,8 +51,8 @@
 <!-- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  -->
 </p>
 
-**Github Stats:**
-
+<!-- **Github Stats:** -->
+### 🔥 &nbsp; My Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zouvikpan&hide=stars&show_icons=true&theme=dracula&line_height=32">
 </p>
