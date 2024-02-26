@@ -54,6 +54,7 @@
 </p>
 
 <!-- **Github Stats:** -->
+<!--
 ### 🔥 &nbsp; My Stats :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zouvikpan&hide=stars&show_icons=true&theme=dracula&line_height=32">
@@ -61,7 +62,7 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zouvikpan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="zouvikpan" /></p>
-
+-->
 <details>
  <summary>😂 <strong>Random joke that'll make you laugh!!</strong> </summary>
    <br>
